@@ -1,4 +1,15 @@
-# Quotes
+# Quotes App 
+## Author
+
+https://github.com/Rustique-Uwimpaye
+
+## Description 
+
+**Quotes App** is an application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational. You can also see the number of upvotes and downvotes for each Quote.
+
+## Live link
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
@@ -25,3 +36,20 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Technologies Used
+
+* HTML5
+* CSS
+* BootStrap
+* AngulerCLI
+* markdown
+
+## Contact Information
+
+If you have any question or you would like to contribute, please email me at rustique644@gmail.com
+
+## License 
+
+MIT License
+Copyright © 2020 Rustique Uwimpaye
