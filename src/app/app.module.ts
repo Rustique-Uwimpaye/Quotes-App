@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
+
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { QuotesComponent } from './quotes/quotes.component';
@@ -23,7 +23,7 @@ import { DateCountPipe } from './date-count.pipe';
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    SweetAlert2Module.forRoot()
+   
   ],
   providers: [],
   bootstrap: [AppComponent]
