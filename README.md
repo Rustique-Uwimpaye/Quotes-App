@@ -51,5 +51,5 @@ If you have any question or you would like to contribute, please email me at rus
 
 ## License 
 
-MIT License
+MIT License <br>
 Copyright © 2020 Rustique Uwimpaye
