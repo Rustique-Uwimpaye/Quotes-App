@@ -8,7 +8,7 @@ import { Quote } from '../quote';
 export class QuotesDetailsComponent implements OnInit {
   @Input() quote: Quote;
   @Output() isRead = new EventEmitter<boolean>();
-  deleteQuote(read:boolean){
+  quoteDelete(read:boolean){
     this.isRead.emit(read);
   }
   upvote(){

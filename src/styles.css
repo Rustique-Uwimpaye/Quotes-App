@@ -2,10 +2,3 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 @import '~font-awesome/css/font-awesome.css';
 @import url('https://fonts.googleapis.com/css2?family=Peddana&display=swap'); 
-body{
-  background-image: url("https://imgur.com/NpnsqOh");
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-} 
